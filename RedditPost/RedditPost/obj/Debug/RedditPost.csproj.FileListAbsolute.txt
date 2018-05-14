@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\RedditPost\RedditPost\bin\Debug\RedditPost.exe.config
+C:\Users\Rasha\source\repos\RedditPost\RedditPost\bin\Debug\RedditPost.exe
+C:\Users\Rasha\source\repos\RedditPost\RedditPost\bin\Debug\RedditPost.pdb
+C:\Users\Rasha\source\repos\RedditPost\RedditPost\obj\Debug\RedditPost.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\RedditPost\RedditPost\obj\Debug\RedditPost.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\RedditPost\RedditPost\obj\Debug\RedditPost.exe
+C:\Users\Rasha\source\repos\RedditPost\RedditPost\obj\Debug\RedditPost.pdb
